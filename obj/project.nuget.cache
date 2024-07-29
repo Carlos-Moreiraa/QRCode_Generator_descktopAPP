@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yhPttJS/WKlaFx2LgjXNE+MFNE4aj28k0MJFYeTvJ4aH0mQOh6FgqIKlkQ9OYju0nBSkBiPey3wxglwuzwAuXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos Portifolio\\Gerador QRCode\\QrCodeDesktopAPP\\QrCodeDesktopAPP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cadu\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Cadu\\.nuget\\packages\\qrcoder\\1.6.0\\qrcoder.1.6.0.nupkg.sha512",
+    "C:\\Users\\Cadu\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
